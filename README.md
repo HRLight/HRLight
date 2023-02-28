@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Luke Herson Bontilao</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
+<h1>Hi 👋, I'm Luke Herson Bontilao</h1>
+<h3>A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrlight&label=Profile%20views&color=0e75b6&style=flat" alt="hrlight" /> </p>
 
