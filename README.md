@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cubo](https://cubo.market/)
+- 🔭 I’m currently working on [ORYX](https://myproperties.oryxsolutions.com.ph)
 
 - 🌱 I’m currently learning **React js**
 
